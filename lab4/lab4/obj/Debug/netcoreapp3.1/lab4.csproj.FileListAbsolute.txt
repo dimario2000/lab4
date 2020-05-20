@@ -1,0 +1,13 @@
+C:\Users\dimar\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csprojAssemblyReference.cache
+C:\Users\dimar\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\dimar\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\dimar\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\dimar\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\dimar\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\dimar\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\dimar\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\dimar\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\dimar\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\dimar\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
